@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-employee-expenses-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-employee-expenses",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_employee_expenses_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/employee-expenses.md",
+  "presentationPlan": "projects/accounting/flutter/employee-expenses.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
